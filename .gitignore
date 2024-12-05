@@ -1430,3 +1430,74 @@ Content/MilitaryAirport/Textures/Tileable/T_Plaster_N.uasset
 Content/MilitaryAirport/Textures/Tileable/T_Rubber_BC.uasset
 Content/MilitaryAirport/Textures/Tileable/T_Rubber_DRO.uasset
 Content/MilitaryAirport/Textures/Tileable/T_Rubber_N.uasset
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Aim_Offsets/W1_Crouch_Aim_Point_D90.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Aim_Offsets/W1_Crouch_Aim_Point_U90.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Aim_Offsets/W1_Stand_Aim_Point_D90.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Fire/W1_Crouch_Fire_Single.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Aim_Offsets/W1_Stand_Aim_Point_U90.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Fire/W1_Stand_Fire_Single.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/Split_Jumps/W1_Jog_Aim_F_Jump_RU_End_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/Split_Jumps/W1_Stand_Aim_Jump_Air_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/Split_Jumps/W1_Stand_Aim_Jump_End_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/Split_Jumps/W1_Stand_Aim_Jump_Start_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/Split_Jumps/W1_Walk_Aim_F_Jump_RU_End_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/W1_Crouch_Aim_Idle_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/W1_Crouch_Idle_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/W1_CrouchWalk_Aim_F_Loop_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/W1_Jog_Aim_F_Loop_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/W1_Stand_Aim_Idle_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/W1_Stand_Aim_Turn_In_Place_L_Loop_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/W1_Stand_Aim_Turn_In_Place_R_Loop_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/W1_Stand_Relaxed_Idle_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/In-Place/W1_Walk_Aim_F_Loop_IPC.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Root_Motion/W1_Crouch_Aim_Idle.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Root_Motion/W1_Crouch_Idle.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Root_Motion/W1_CrouchWalk_Aim_F_Loop.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Root_Motion/W1_Jog_Aim_F_Loop.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Root_Motion/W1_Stand_Aim_Idle.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Root_Motion/W1_Stand_Aim_Turn_In_Place_L_Loop.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Root_Motion/W1_Stand_Aim_Turn_In_Place_R_Loop.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Root_Motion/W1_Stand_Relaxed_Idle.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Animation/Root_Motion/W1_Walk_Aim_F_Loop.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/MotusMan/MotusMan_v55.fbm/MCG_diff.jpg
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/MotusMan/MotusMan_v55.fbm/MCG_spec.jpg
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/MotusMan/MotusMan_v55.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/MotusMan/MotusManv55_HIK_Rig.ma
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/MotusMan/sourceimages/MCG_diff.jpg
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/MotusMan/sourceimages/MCG_spec.jpg
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Pistol Starter 27A - Animation List - MocapOnline.pdf
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Pistol/1911_01.fbm/1911.jpg
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/Pistol/1911_01.fbx
+Content/FBX_Pistol_Starter_27A (1)/FBX_Pistol_Starter_27A/READ_ME\!_MotusMan_v55_NOTES.txt
+Content/combat-knife/source/knife.glb
+Content/combat-knife/textures/gltf_embedded_2.jpeg
+Content/combat-knife/textures/gltf_embedded_1.jpeg
+Content/combat-knife/textures/gltf_embedded_0@channels=G.jpeg
+Content/combat-knife/textures/gltf_embedded_0@channels=B.jpeg
+Content/heavy_plasma_gun_kurtz_x1_gltf/scene.bin
+Content/heavy_plasma_gun_kurtz_x1_gltf/scene.gltf
+Content/heavy_plasma_gun_kurtz_x1_gltf/textures/Material_baseColor.png
+Content/heavy_plasma_gun_kurtz_x1_gltf/textures/Material_emissive.png
+Content/heavy_plasma_gun_kurtz_x1_gltf/textures/Material_metallicRoughness.png
+Content/future_gun_fbx_gltf/scene.bin
+Content/future_gun_fbx_gltf/textures/lambert15_baseColor.png
+Content/future_gun_fbx_gltf/scene.gltf
+Content/future_gun_fbx_gltf/textures/lambert15_emissive.png
+Content/future_gun_fbx_gltf/textures/lambert15_metallicRoughness.png
+Content/future_gun_fbx_gltf/textures/lambert15_normal.png
+Content/future_gun_fbx_gltf/textures/lambert16_baseColor.png
+Content/future_gun_fbx_gltf/textures/lambert16_metallicRoughness.png
+Content/future_gun_fbx_gltf/textures/lambert16_normal.png
+Content/future_gun_fbx_gltf/textures/lambert2_baseColor.png
+Content/future_gun_fbx_gltf/textures/lambert2_metallicRoughness.png
+Content/future_gun_fbx_gltf/textures/lambert2_normal.png
+Content/low_poly_gun_model_field_tested_gltf/scene.bin
+Content/low_poly_gun_model_field_tested_gltf/scene.gltf
+Content/low_poly_gun_model_field_tested_gltf/textures/METAL_baseColor.png
+Content/low_poly_gun_model_field_tested_gltf/textures/METAL_emissive.png
+Content/low_poly_gun_model_field_tested_gltf/textures/METAL_metallicRoughness.png
+Content/low_poly_gun_model_field_tested_gltf/textures/METAL_normal.png
+Content/low_poly_gun_model_field_tested_gltf/textures/PAINT_baseColor.png
+Content/low_poly_gun_model_field_tested_gltf/textures/PAINT_emissive.png
+Content/low_poly_gun_model_field_tested_gltf/textures/PAINT_metallicRoughness.png
+Content/low_poly_gun_model_field_tested_gltf/textures/PAINT_normal.png
